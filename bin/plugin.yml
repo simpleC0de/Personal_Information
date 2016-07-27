@@ -1,0 +1,7 @@
+main: pi.Main.Main
+version: 1.0
+name: Personal_Information
+commands:
+  ingname:
+    usage: /<command>
+    description: Select your Ingamename.
